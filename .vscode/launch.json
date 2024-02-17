@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "InterfaceITECalculator",
+            "request": "launch",
+            "mainClass": "InterfaceITECalculator",
+            "projectName": "ITECalculator_abc54e93"
+        },
+        {
+            "type": "java",
+            "name": "Launch ITECalculator",
+            "request": "launch",
+            "mainClass": "ITECalculator",
+            "projectName": "ITECalculator_abc54e93"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberSystemConversion",
+            "request": "launch",
+            "mainClass": "model.NumberSystemConversion",
+            "projectName": "ITECalculator_1c2bee91"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceITECalculator",
+            "request": "launch",
+            "mainClass": "InterfaceITECalculator",
+            "projectName": "ITECalculator_1c2bee91"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceITECalculator",
+            "request": "launch",
+            "mainClass": "InterfaceITECalculator",
+            "projectName": "ITECalculator_43238eb3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ITECalculator",
+            "request": "launch",
+            "mainClass": "ITECalculator",
+            "projectName": "ITECalculator_2d1502e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceITECalculator",
+            "request": "launch",
+            "mainClass": "InterfaceITECalculator",
+            "projectName": "ITECalculator_2d1502e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ITECalculator",
+            "request": "launch",
+            "mainClass": "ITECalculator",
+            "projectName": "ITECalculator_45ca54f"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceITECalculator",
+            "request": "launch",
+            "mainClass": "InterfaceITECalculator",
+            "projectName": "ITECalculator_45ca54f"
+        }
+    ]
+}

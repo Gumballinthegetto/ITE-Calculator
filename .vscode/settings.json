@@ -1,0 +1,20 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/phanjapon/Documents/MigLayout/miglayout-core-11.0-javadoc.jar",
+        "/Users/phanjapon/Documents/MigLayout/miglayout-core-11.0-sources.jar",
+        "/Users/phanjapon/Documents/MigLayout/miglayout-core-11.0.jar",
+        "/Users/phanjapon/Documents/MigLayout/miglayout-swing-11.0-javadoc.jar",
+        "/Users/phanjapon/Documents/MigLayout/miglayout-swing-11.0-sources.jar",
+        "/Users/phanjapon/Documents/MigLayout/miglayout-swing-11.0.jar"
+    ],
+    "java.completion.filteredTypes": [
+        "com.sun.*",
+        "sun.*",
+        "jdk.*",
+        "org.graalvm.*",
+        "io.micrometer.shaded.*"
+    ]
+}
